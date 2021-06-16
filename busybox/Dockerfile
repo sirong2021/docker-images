@@ -1,1 +1,1 @@
-from busybox
+FROM busybox
